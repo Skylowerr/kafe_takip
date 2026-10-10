@@ -40,8 +40,8 @@ Bu proje; **YOLOv8**, **ByteTrack** ve **Hugging Face Transformers** modellerini
 ### 1. Depoyu klonlayın
 
 ```bash
-git clone https://github.com/<kullanici-adi>/<repo-adi>.git
-cd <repo-adi>
+git clone https://github.com/<Skylowerr>/<kafe_takip>.git
+cd <kafe_takip>
 ```
 
 ### 2. (Önerilen) Sanal ortam oluşturun
@@ -92,25 +92,6 @@ python main.py
 - Cinsiyet ve görünüm tahminleri **olasılıksal** sonuçlardır; kamera açısı, ışık ve çözünürlüğe göre hatalı olabilir.
 - Kişisel veri içeren görüntülerin işlenmesi **KVKK / GDPR** gibi mevzuatlara tabidir. Projeyi gerçek ortamlarda kullanmadan önce gerekli izin ve aydınlatma süreçlerini yerine getirin.
 - Bu proje eğitim ve araştırma amaçlıdır; kişileri profillemek veya ayrımcılık yapmak için kullanılmamalıdır.
-
-## 🗺️ Yol Haritası
-
-- [ ] Canlı kamera (RTSP/webcam) desteği
-- [ ] Sayım sonuçlarını CSV/JSON olarak dışa aktarma
-- [ ] Birden fazla kapı çizgisi desteği
-- [ ] Web tabanlı gösterge paneli
-
-## 🤝 Katkıda Bulunma
-
-1. Repoyu fork'layın
-2. Yeni bir branch açın (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit'leyin (`git commit -m "Yeni özellik eklendi"`)
-4. Branch'inizi push'layın (`git push origin feature/yeni-ozellik`)
-5. Pull Request açın
-
-## 📄 Lisans
-
-Bu proje [MIT](LICENSE) lisansı ile lisanslanmıştır.
 
 ## 🙏 Teşekkürler
 
