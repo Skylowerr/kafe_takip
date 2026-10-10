@@ -40,8 +40,8 @@ Bu proje; **YOLOv8**, **ByteTrack** ve **Hugging Face Transformers** modellerini
 ### 1. Depoyu klonlayın
 
 ```bash
-git clone https://github.com/<Skylowerr>/<kafe_takip>.git
-cd <kafe_takip>
+git clone https://github.com/Skylowerr/kafe_takip.git
+cd kafe_takip
 ```
 
 ### 2. (Önerilen) Sanal ortam oluşturun
