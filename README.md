@@ -1,3 +1,6 @@
+Önemli not: Video dosyasını GitHub deposuna ekleyemediğim için .mp4 dosyası bu repoda bulunmayabilir. Projeyi çalıştırmak için videonuzu input_videos/kisi_sayimi.mp4 konumuna yerleştirin. Dosya bu yolda bulunduğunda kod videoyu işlemeye hazırdır.
+
+
 <div align="center">
 
 # 🎯 AI Destekli Kişi Sayımı ve Demografik Analiz Sistemi
